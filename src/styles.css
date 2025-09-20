@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+    background: white;
+}
